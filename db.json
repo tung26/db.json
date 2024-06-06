@@ -1,1 +1,52 @@
-{["hi"]}
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 32,
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 28,
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "age": 45,
+      "gender": "Male"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "description": "High-performance laptop for everyday use",
+      "price": 999.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt",
+      "description": "Soft and comfortable cotton T-shirt",
+      "price": 19.99,
+      "category": "Clothing"
+    },
+    {
+      "id": 3,
+      "name": "Garden Hose",
+      "description": "Heavy-duty garden hose for watering your plants",
+      "price": 29.99,
+      "category": "Home & Garden"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "productId":
